@@ -36,12 +36,12 @@ http://localhost:3000
 
 ### 1.Browse all the restaurants around NUU
 
-![brose]()
+![brose](https://github.com/azsx96385/AC_restaurant_list/blob/master/browse.png)
 
 ### 2.Search for restaurant
 
-![search]()
+![search](https://github.com/azsx96385/AC_restaurant_list/blob/master/search.png)
 
 ### 3.Check out detaile
 
-![check]()
+![check](https://github.com/azsx96385/AC_restaurant_list/blob/master/detaile.png)
